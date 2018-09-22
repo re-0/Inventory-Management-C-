@@ -91,7 +91,6 @@ namespace NewIn
 
                 foreach(var product in someList){
                     using(var cmd = new SqliteCommand(query, con)){
-                        //cmd.Parameters.AddWithValue("@StudentID", student.StudentID);
                         cmd.Parameters.AddWithValue("@Name", product.productName);
                         cmd.Parameters.AddWithValue("@Brand", product.brand);
                         cmd.Parameters.AddWithValue("@Price", product.productPrice);
