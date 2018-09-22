@@ -1,1 +1,1 @@
-# Inventory-Management-C-
+# Inventory Management in C#
