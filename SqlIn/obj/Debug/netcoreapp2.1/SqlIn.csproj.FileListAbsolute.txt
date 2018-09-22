@@ -1,0 +1,11 @@
+C:\Users\Regi\Desktop\SqlIn\bin\Debug\netcoreapp2.1\SqlIn.deps.json
+C:\Users\Regi\Desktop\SqlIn\bin\Debug\netcoreapp2.1\SqlIn.runtimeconfig.json
+C:\Users\Regi\Desktop\SqlIn\bin\Debug\netcoreapp2.1\SqlIn.runtimeconfig.dev.json
+C:\Users\Regi\Desktop\SqlIn\bin\Debug\netcoreapp2.1\SqlIn.dll
+C:\Users\Regi\Desktop\SqlIn\bin\Debug\netcoreapp2.1\SqlIn.pdb
+C:\Users\Regi\Desktop\SqlIn\obj\Debug\netcoreapp2.1\SqlIn.csprojAssemblyReference.cache
+C:\Users\Regi\Desktop\SqlIn\obj\Debug\netcoreapp2.1\SqlIn.csproj.CoreCompileInputs.cache
+C:\Users\Regi\Desktop\SqlIn\obj\Debug\netcoreapp2.1\SqlIn.AssemblyInfoInputs.cache
+C:\Users\Regi\Desktop\SqlIn\obj\Debug\netcoreapp2.1\SqlIn.AssemblyInfo.cs
+C:\Users\Regi\Desktop\SqlIn\obj\Debug\netcoreapp2.1\SqlIn.dll
+C:\Users\Regi\Desktop\SqlIn\obj\Debug\netcoreapp2.1\SqlIn.pdb
